@@ -1,0 +1,16 @@
+
+.avatar{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	position:absolute;
+	top:-80px;
+	left:calc(50%-50px);
+	margin-left:-50px;
+}
+#profile{
+	display: block;
+	width: 60%;
+	margin: 5px auto;
+	border-radius:50%;
+}
